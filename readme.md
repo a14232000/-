@@ -4,7 +4,7 @@
 
 - 该处超级不定期整理收录**十万个为什么**道长的知乎回答、专栏和微信公众号公开的内容。
 
-- 下载请点击绿色的 Clone or download ，然后单击 Download Zip
+- 下载请点击绿色的 Clone or download ，然后单击 Download Zip 解压问题请使用7-zip
 
 
 ### 收录情况：
