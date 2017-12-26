@@ -22,7 +22,7 @@
 ##  声明
 
 
-- 本人仅整理收录，版权归[十万个为什么](https://www.zhihu.com/people/po-miao-miao-zhu/activities "十万")道长所有。请用于个人学习研究。
+- 本人仅整理收录，版权归[十万个为什么](https://www.zhihu.com/people/po-miao-miao-zhu/activities "十万")道长以及其他作者所有。请用于个人学习研究。
 
 
 ### 更新情况
