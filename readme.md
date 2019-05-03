@@ -1,5 +1,8 @@
-## <font color=#FF0000> 一个小目标 </font>  
-
+## $\color{rgb(255,0,0)}{一个小目标}$
+ <font color=#FF0000> 一个小目标 </font>  
+$\color{rgb(255,0,0)}{一个小目标}$
+$\color{red}{红色字}$
+$\color{#FF0000}{红色字}$
 最近觉得gitbook的形式不错，而且鉴于word对于大文档优化一般，所以打算以markdown替代word，该项目发布文件格式将逐渐转为md以及epub。
 
 
