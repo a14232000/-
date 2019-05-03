@@ -1,6 +1,10 @@
 ## <font color=#FF0000> 一个小目标 </font>  
 
-最近觉得gitbook的形式不错，而且鉴于word对于大文档优化一般，所以打算以markdown替代word，该项目发布文件格式将逐渐转为md以及epub。
+最近觉得gitbook的形式不错，而且鉴于word对于大文档优化一般，所以打算逐渐以markdown替代word，该项目发布文件格式将转为md以及epub。
+
+epub总能打开吧~
+
+至于什么时候，嗯，这是个问题~😊
 
 
 # 说明
