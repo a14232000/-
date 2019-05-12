@@ -1,10 +1,8 @@
-## <font color=#FF0000> 一个小目标 </font>  
+## 更新2019/5/12
 
-最近觉得gitbook的形式不错，而且鉴于word对于大文档优化一般，所以打算逐渐以markdown替代word，该项目发布文件格式将转为md以及epub。
+最近觉得gitbook的形式不错，而且鉴于word打开大文档的速度太慢……所以打算逐渐以markdown替代word，该项目发布文件格式将转为md以及epub。**不过在所有文章都转换为md之前，word版本将会持续更新。**
 
-epub总能打开吧~
-
-至于什么时候，嗯，这是个问题~😊
+最近把知乎专栏的文章转成md了，不过暂时不打算折腾Gitbook了。发布了epub文件，大家想要什么样式大家自己处理吧：两端对齐可以在calibre用css处理，增加字体同样也能用calibre……网上教程很多的，嘿嘿。
 
 
 # 说明
@@ -27,10 +25,5 @@ epub总能打开吧~
 
 ## 声明
 
-本人仅整理收录，版权归[十万个为什么](https://www.zhihu.com/people/po-miao-miao-zhu/activities "十万")先生以及其他作者所有。请用于个人学习研究。  
+本人仅整理收录，版权由[十万个为什么](https://www.zhihu.com/people/po-miao-miao-zhu/activities "十万")先生以及其他作者持有。请用于个人学习研究。  
 通过联系，已取得作者信息网络传播权授权。
-
-
-## 更新情况
-
-最后更新时间 2019/5/3
